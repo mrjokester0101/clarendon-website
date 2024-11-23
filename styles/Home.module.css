@@ -123,10 +123,6 @@
 }
 
 @media (max-width: 600px) {
-  .grid {
-    width: 100%;
-  }
-
   .title {
     margin: auto;
     font-size: 50px;
