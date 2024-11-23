@@ -5,18 +5,18 @@ import MainButtons from "../components/MainButtons.js";
 
 const Home = () => {
   return (
-    <div className={styles.all}>
-      <div className={styles.container}>
-        <Head>
-          <title>Game Bot</title>
-          <meta name="description" content="Main Page" />
-          <link rel="icon" href="/gamebot.png" />
-        </Head>
-        <main className={styles.main}>
-          <h1 className={styles.title}>
-             <Image className={styles.image} src="/gamebot.png" alt="Profile Icon"/> Game Bot
-          </h1>
-          <p className={styles.description}>Main Page</p>
+    <div className={styles.container}>
+      <Head>
+        <title>Game Bot</title>
+        <meta name="description" content="Main Page" />
+        <link rel="icon" href="/gamebot.png" />
+      </Head>
+
+      <main className={styles.main}>
+        <h1 className={styles.title}>
+          <Image className={styles.image} src="/gamebot.png" alt="Profile Icon"/> Game Bot
+        </h1>
+        <p className={styles.description}>Main Page</p>
   
         <MainButtons/>
 
@@ -36,8 +36,7 @@ const Home = () => {
           </div>
         </div>
 
-        </main>
-      </div>
+      </main>
     </div>
   );
 };
