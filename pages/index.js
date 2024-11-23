@@ -19,7 +19,11 @@ const Home = () => {
           <p className={styles.description}>Main Page</p>
   
         <MainButtons/>
-              
+  
+        <a href="https://top.gg/bot/1251525661185806336">
+          <img src="https://top.gg/api/widget/1251525661185806336.svg">
+        </a>
+
         <div className={styles.grid}>
           <div className={styles.card}>
             <h2>Game Bot</h2>
