@@ -21,7 +21,7 @@ const Home = () => {
         <MainButtons/>
   
         <a href="https://top.gg/bot/1251525661185806336">
-          <img src="https://top.gg/api/widget/1251525661185806336.svg">
+          <Image src="https://top.gg/api/widget/1251525661185806336.svg"/>
         </a>
 
         <div className={styles.grid}>
