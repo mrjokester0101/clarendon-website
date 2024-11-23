@@ -1,5 +1,6 @@
- .container {
+.container {
   padding: 0 2rem;
+  background-color: linear-gradient(to bottom, #222, #111);
 }
 
 .main {
@@ -9,7 +10,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: linear-gradient(to bottom, #222, #111);;
+  background-color: linear-gradient(to bottom, #222, #111);
   color: #fff;
   width: 100%;
   height: 100%;
