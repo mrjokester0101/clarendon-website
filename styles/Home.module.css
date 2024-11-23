@@ -54,37 +54,6 @@
   white-space: pre;
 }
 
-.code {
-  font-family: 'Courier New';
-  font-size: 14px;
-  line-height: 2;
-  justify-content: center;
-  background-color: #444;
-  border: 3px solid #111;
-  border-radius: 5px;
-  padding: 10px;
-  white-space: pre;
-  overflow-x: auto;
-  width: 500px;
-  height: 500px;
-}
-
-.snippet {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  padding: 10px;
-  margin: auto;
-}
-
-.sntitle {
-  font-size: 30px;
-  font-weight: bold;
-  color: #fff;
-  text-align: center;
-  margin-bottom: 10px;
-}
-
 .grid {
   display: flex;
   flex-wrap: wrap;
@@ -102,7 +71,7 @@
   text-align: center;
   text-decoration: none;
   background-color: #444;
-  border: 3px solid #111;
+  border: 3px solid #222;
   border-radius: 5px;
   width: 30%;
   height: 100px;
@@ -185,28 +154,6 @@
     line-height: 1.5;
     width: 100%;
     font-size: 17px;
-  }
-  
-  .snippet {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    padding: 10px;
-    margin: auto;
-  }
-
-  .code {
-    font-size: 14px;
-    line-height: 2;
-    border-radius: 5px;
-    padding: 10px;
-    width: 250px;
-    height: 250px;
-  }
-  
-  .sntitle {
-    font-size: 30px;
-    margin-bottom: 10px;
   }
   
   .card {
