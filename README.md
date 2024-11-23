@@ -1,2 +1,2 @@
 # Website
-https://mrjokester0101.vercel.app
+https://discordgamebot.vercel.app/
