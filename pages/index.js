@@ -8,13 +8,13 @@ const Home = () => {
     <div className={styles.all}>
       <div className={styles.container}>
         <Head>
-          <title>MrJokester</title>
+          <title>Game Bot</title>
           <meta name="description" content="Main Page" />
-          <link rel="icon" href="/profile.png" />
+          <link rel="icon" href="/gamebot.png" />
         </Head>
         <main className={styles.main}>
           <h1 className={styles.title}>
-             <Image className={styles.image} src="/title.png" alt="Profile Icon"/> MrJokester
+             <Image className={styles.image} src="/gamebot.png" alt="Profile Icon"/> Game Bot
           </h1>
           <p className={styles.description}>Main Page</p>
   
