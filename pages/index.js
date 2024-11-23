@@ -21,19 +21,13 @@ const Home = () => {
         <MainButtons/>
 
         <div className={styles.grid}>
-          <div className={styles.card}>
+          <a href="https://discord.com/oauth2/authorize?client_id=1251525661185806336&permissions=8&integration_type=0&scope=bot" className={styles.card}>
             <h2>Game Bot</h2>
-            <a href="https://discord.com/oauth2/authorize?client_id=1251525661185806336&permissions=8&integration_type=0&scope=bot" className={styles.linkcard}>
-              <p>Get Invite</p>
-            </a>
-          </div>
+          </a>
 
-          <div className={styles.card}>
+          <a href="https://discord.com/invite/VWEcYvKztc" className={styles.card}>
             <h2>MrJokester Studios</h2>
-            <a href="https://discord.com/invite/VWEcYvKztc" className={styles.linkcard}>
-              <p>Get Invite</p>
-            </a>
-          </div>
+          </a>
         </div>
 
       </main>
