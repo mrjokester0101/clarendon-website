@@ -41,7 +41,7 @@
   white-space: pre;
 }
 
-.aboutthebot {
+.content {
   margin: 4rem 0;
   font-size: 1.5rem;
   line-height: 1.5;
@@ -117,7 +117,7 @@
     font-size: 17px;
   }
 
-  .aboutthebot {
+  .content {
     font-size: 17px;
   }
   
