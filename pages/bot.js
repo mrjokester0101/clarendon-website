@@ -20,7 +20,7 @@ const Home = () => {
 
         <MainButtons/>
   
-        <div className={styles.aboutthebot}>
+        <div className={styles.content}>
           <h2>🤖 Automod</h2>
             <p>You can make the bot help moderate the</p>
             <p>server, with the option to enable or disable it</p>
