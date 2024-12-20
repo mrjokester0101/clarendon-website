@@ -7,14 +7,14 @@ const Home = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Game Bot</title>
+        <title>Clarendon</title>
         <meta name="description" content="About The Bot" />
-        <link rel="icon" href="/gamebot.png" />
+        <link rel="icon" href="/profile.png" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <Image className={styles.image} src="/gamebot.png" alt="Profile Icon"/> Game Bot
+          <Image className={styles.image} src="/profile.png" alt="Profile Icon"/> Clarendon
         </h1>
         <p className={styles.description}>About The Bot</p>
 
