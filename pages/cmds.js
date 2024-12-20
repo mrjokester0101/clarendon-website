@@ -7,14 +7,14 @@ const Home = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Game Bot</title>
+        <title>Clarendon</title>
         <meta name="description" content="Commands" />
-        <link rel="icon" href="/gamebot.png" />
+        <link rel="icon" href="/profile.png" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <Image className={styles.image} src="/gamebot.png" alt="Profile Icon"/> Game Bot
+          <Image className={styles.image} src="/profile.png" alt="Profile Icon"/> Clarendon
         </h1>
         <p className={styles.description}>Commands</p>
 
@@ -80,6 +80,8 @@ const Home = () => {
           <p>.tic-tac-toe - Play a game of tic-tac-toe</p>
           <p>with a user or yourself.</p>
           <p>.bomb - Play a game of bomb.</p>
+          <p>.question - .question - Play a game of</p>
+          <p>questions about the bot.</p>
         </div>
   
       </main>
