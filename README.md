@@ -1,2 +1,2 @@
 # Website
-https://discordgamebot.vercel.app/
+https://clarendonbot.vercel.app/
