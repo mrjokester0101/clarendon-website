@@ -36,6 +36,8 @@ const Home = () => {
           <p>.lock - Lock the current channel.</p>
           <p>.unlock - Unlocks the current channel.</p>
           <p>.kick - Kick a person with a reason.</p>
+          <p>.automod - Turn automod on or off for your server.</p>
+          <p>.editautomod - Edit automod for your server.</p>
         <h2>🌐 Unity Commands 🌐</h2>
           <p>.help - Shows the start menu of</p>
           <p>the help command.</p>
@@ -55,7 +57,6 @@ const Home = () => {
           <p>.calculator - Show a calculator with buttons.</p>
           <p>.afk - Set your afk.</p>
           <p>.back - Remove your afk.</p>
-          <p>.automod - Set automod to your server.</p>
         <h2>💵 Economy Commands 💵</h2>
           <p>.balance - Check your's or someone</p>
           <p>else's balance.</p>
