@@ -6,13 +6,20 @@
 }
 
 .buttons {
-  margin: 4px 2px;
-  display: table-cell;
-  vertical-align: middle;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  margin: auto;
   gap: 40px;
 }
 
 .button {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  margin: auto;
   padding: 10px 20px;
   background-color: #222;
   border: 3px solid #444;
