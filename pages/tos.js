@@ -28,7 +28,7 @@ const Home = () => {
             <p>You must be at least 13 years old to use Doors Moderator Bot. By using the bot, you represent and warrant that you meet this age requirement.</p>
           <h3>2. License</h3>
             <p>We grant you a limited, non-exclusive, non-transferable, and revocable license to use the bot in accordance with these Terms.</p>
-          <h3>3. Prohibited Conduct<h3>
+          <h3>3. Prohibited Conduct</h3>
             <p>You agree not to:</p>
             <p>1. Use the bot for any illegal or unauthorized purpose.</p>
             <p>2. Attempt to gain unauthorized access to the bot or its systems.</p>
@@ -57,7 +57,7 @@ const Home = () => {
             <p>1. Your use of and access to the bot.</p>
             <p>2. Your violation of any term of these Terms.</p>
             <p>3. Your violation of any third-party right, including without limitation any copyright, property, or privacy right.</p>
-        <h2>Discord<h2>
+        <h2>Discord</h2>
           <p>These Terms shall be governed by and construed in accordance with the discord terms of service of the jurisdiction in which we are based, without regard to its conflict of law principles.</p>
         <h2>Changes to These Terms</h2>
           <p>We may update these Terms from time to time. We will notify you of any changes by posting the new Terms within the support server. You are advised to review these Terms periodically for any changes.</p>
