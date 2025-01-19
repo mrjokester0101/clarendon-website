@@ -11,7 +11,7 @@
   justify-content: center;
   width: 100%;
   margin: auto;
-  gap: 40px;
+  gap: 20px;
 }
 
 .button {
@@ -50,7 +50,7 @@
 
 @media (max-width: 600px) {
   .buttons {
-    gap: 20px;
+    gap: 10px;
   }
   
   .button {
