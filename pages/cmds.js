@@ -40,13 +40,15 @@ const Home = () => {
           <p>.editautomod - Edit automod for your server.</p>
         <h2>🌐 Unity Commands 🌐</h2>
           <p>.help - Shows the start menu of</p>
-          <p>the help command.</p>
+          <p>the help command or showing others</p>
+          <p>by saying staff/unity/economy/fun</p>
           <p>.scc - Set the counting channel.</p>
           <p>.rcc - Remove the counting channel.</p>
           <p>.slc - Set the level channel.</p>
           <p>.rlc - Remove the level channel.</p>
           <p>.level - Check your or someone else's level.</p>
-          <p>.leaderboard - Check the leaderboards.</p>
+          <p>.leaderboard - Check the leaderboards or by saying</p>
+          <p>cash/bank/level/question/snake.</p>
           <p>.chat - Chat with the application.</p>
           <p>.support - Show links.</p>
           <p>.botinfo - Show the bot info.</p>
