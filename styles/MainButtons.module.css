@@ -6,7 +6,9 @@
 }
 
 .buttons {
-  padding: 10px 20px;
+  margin: 4px 2px;
+  display: table-cell;
+  vertical-align: middle;
   gap: 40px;
 }
 
@@ -41,7 +43,6 @@
 
 @media (max-width: 600px) {
   .buttons {
-    padding: 5px 10px;
     gap: 20px;
   }
   
