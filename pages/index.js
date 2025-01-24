@@ -21,7 +21,7 @@ const Home = () => {
         <MainButtons/>
 
         <div className={styles.grid}>
-          <a href="https://discord.com/oauth2/authorize?client_id=1251525661185806336&permissions=1699281732758775&integration_type=0&scope=bot" className={styles.card}>
+          <a href="https://discord.com/oauth2/authorize?client_id=1251525661185806336&permissions=1787146563091583&integration_type=0&scope=bot" className={styles.card}>
             <h2>Invite Me</h2>
           </a>
 
