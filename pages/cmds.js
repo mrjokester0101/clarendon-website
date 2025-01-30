@@ -33,8 +33,7 @@ const Home = () => {
           <p>.lock - Lock the current channel.</p>
           <p>.unlock - Unlocks the current channel.</p>
           <p>.kick - Kick a person with a reason.</p>
-          <p>.automod - Turn automod on or off for your server.</p>
-          <p>.editautomod - Edit automod for your server.</p>
+          <p>.automodsettings - Shows a menu of the automod settings.</p>
         <h2>🌐 Unity Commands 🌐</h2>
           <p>.help - Shows the start menu of the help command or showing others by saying staff/unity/economy/fun</p>
           <p>.countsettings - Shows a menu of the count settings.</p>
