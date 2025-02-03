@@ -27,7 +27,7 @@ const Home = () => {
           <p>We collect various types of information in connection with your interaction with Doors Moderator Bot.</p>
           <h3>1. Personal Information</h3>
             <p>We do not actively collect personal information. However, any information you provide when interacting with the bot, such as usernames or personal messages, may be processed.</p>
-          <h3>2. Cookies and Tracking Technologies</h4>
+          <h3>2. Cookies and Tracking Technologies</h3>
             <p>We do not use cookies or other tracking technologies in the bot.</p>
         <h2>How We Use Your Information</h2>
           <p>We use the information we collect in the following ways.</p>
