@@ -22,40 +22,17 @@ const Home = () => {
   
         <div className={styles.content}>
           <h2>🤖 Automod</h2>
-            <p>You can make the bot help moderate the</p>
-            <p>server, with the option to enable or disable it</p>
-            <p>as needed!</p>
+            <p>You can make the bot help moderate the server, with the option to enable or disable it as needed & edit what contents are banned!</p>
           <h2>🌐 Unity Commands</h2>
-            <p>There are various functions like help,</p>
-            <p>setting channels & automod on or off,</p>
-            <p>checking info, chatting, accessing tools like</p>
-            <p>a calculator, managing AFK status, and</p>
-            <p>viewing server or leaderboard details which</p>
-            <p>you can use!</p>
+            <p>There are various functions like help setting channels & automod on or off, checking info, chatting, accessing tools like a calculator, managing AFK status, and viewing server or leaderboard details which you can use!</p>
           <h2>🛠️ Staff Commands</h2>
-            <p>There are commands for managing users</p>
-            <p>and channels, such as banning, unbanning,</p>
-            <p>timing out, warning, clearing messages,</p>
-            <p>locking/unlocking channels, and kicking</p>
-            <p>users which you can use to help moderate</p>
-            <p>your server!</p>
+            <p>There are commands for managing users and channels, such as banning, unbanning, timing out, warning, clearing messages, locking/unlocking channels, and kicking users which you can use to help moderate your server!</p>
           <h2>😜 Fun Commands</h2>
-            <p>There are fun functions, like memory</p>
-            <p>match, dice rolls, snake, slot machine,</p>
-            <p>tic-tac-toe & bomb games to make you have</p>
-            <p>fun!</p>
+            <p>There are fun functions, like memory match, dice rolls, snake, slot machine, tic-tac-toe, bomb games & questions to make you have fun!</p>
           <h2>💵 Economy Commands</h2>
-            <p>This bot also manages a virtual economy,</p>
-            <p>allowing users to check balances, deposit or</p>
-            <p>withdraw cash, claim daily rewards, work for</p>
-            <p>money, manage inventory, buy and sell items,</p>
-            <p>hunt for resources, and browse the shop for</p>
-            <p>resources!</p>
+            <p>This bot also manages a virtual economy, allowing users to check balances, deposit or withdraw cash, claim daily rewards, work for money, manage inventory, buy and sell items, hunt for resources, and browse the shop for resources!</p>
           <h2>📈 Level System</h2>
-            <p>It also has a leveling system that tracks</p>
-            <p>user activity, rewards XP for engagement,</p>
-            <p>and allows progression through levels, with</p>
-            <p>the option to enable or disable it as needed!</p>
+            <p>It also has a leveling system that tracks user activity, rewards XP for engagement, and allows progression through levels, with the option to enable or disable it as needed!</p>
         </div>
 
       </main>
