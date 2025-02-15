@@ -61,10 +61,10 @@ const Home = () => {
           <p>.hunt - Hunt for items.</p>
           <p>.shop - Check the shop.</p>
           <p>.buy - Buy items from the shop using their number ID's.</p>
+          <p>.slotmachine - Gamble on the slot machine for double rewards. (Max is 500 and the minimum is 10.)</p>
         <h2>😜 Fun Commands 😜</h2>
           <p>.roll - Rolls a dice 1-10.</p>
           <p>.snake - Play a game of snake.</p>
-          <p>.slot - Slot machine.</p>
           <p>.tic-tac-toe - Play a game of tic-tac-toe with a user or yourself.</p>
           <p>.bomb - Play a game of bomb.</p>
           <p>.question - .question - Play a game of questions about the bot.</p>
