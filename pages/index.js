@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <meta property="og:site_name" content="Clarendon />
+        <meta property="og:site_name" content="Clarendon" />
         <meta property="og:title" content="Main Page" />
         <meta property="og:description" content="The official Clarendon bot. This bot looks for you to have fun when using it!" />
         <meta property="og:url" content="https://clarendonbot.vercel.app/" />
