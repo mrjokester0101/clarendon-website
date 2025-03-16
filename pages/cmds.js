@@ -7,11 +7,15 @@ const Home = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Clarendon</title>
-        <meta name="description" content="Commands" />
+        <meta property="og:site_name" content="Clarendon />
+        <meta property="og:title" content="Commands" />
+        <meta property="og:description" content="The official Clarendon bot. This bot looks for you to have fun when using it!" />
+        <meta property="og:url" content="https://clarendonbot.vercel.app/" />
+        <title>MrJokester</title>
+        <meta name="description" content="Information for the commands." />
+        <meta property="og:image" content="/profile.png" />
         <link rel="icon" href="/profile.png" />
       </Head>
-
       <main className={styles.main}>
         <h1 className={styles.title}>
           <Image className={styles.image} src="/profile.png" alt="Profile Icon"/> Clarendon
