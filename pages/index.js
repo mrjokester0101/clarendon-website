@@ -11,7 +11,7 @@ const Home = () => {
         <meta property="og:title" content="Main Page" />
         <meta property="og:description" content="The official Clarendon bot. This bot looks for you to have fun when using it!" />
         <meta property="og:url" content="https://clarendonbot.vercel.app/" />
-        <title>MrJokester</title>
+        <title>Clarendon</title>
         <meta name="description" content="Invite links & stuff." />
         <meta property="og:image" content="/profile.png" />
         <link rel="icon" href="/profile.png" />
