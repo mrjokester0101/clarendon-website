@@ -26,9 +26,9 @@ const Home = () => {
   
       <div className={styles.content}>
         <h2>Introduction</h2>
-          <p>Welcome to Doors Moderator Bot. This privacy policy explains how we collect, use, disclose, and safeguard your information when you interact with our bot. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not use the bot.</p>
+          <p>Welcome to Clarendon. This privacy policy explains how we collect, use, disclose, and safeguard your information when you interact with our bot. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not use the bot.</p>
         <h2>Information We Collect</h2>
-          <p>We collect various types of information in connection with your interaction with Doors Moderator Bot.</p>
+          <p>We collect various types of information in connection with your interaction with Clarendon.</p>
           <h3>1. Personal Information</h3>
             <p>We do not actively collect personal information. However, any information you provide when interacting with the bot, such as usernames or personal messages, may be processed.</p>
           <h3>2. Cookies and Tracking Technologies</h3>
@@ -56,7 +56,7 @@ const Home = () => {
         <h2>Agreement</h2>
           <p>By using Clarendon, you agree to the terms of this privacy policy.</p>
         <h2>Last updated</h2>
-          <p>This has been last updated on 24/01/2025.</p>
+          <p>This has been last updated on 3th of June 2025.</p>
       </div>
   
       </main>
