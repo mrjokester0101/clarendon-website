@@ -29,7 +29,7 @@ const Home = () => {
           <p>Welcome to Clarendon's Terms of service ("Terms"). These Terms govern your use of the bot. By using the bot, you agree to these Terms. If you do not agree to these Terms, please do not use the bot.</p>
         <h2>Use of the Bot</h2>
           <h3>1. Eligibility</h3>
-            <p>You must be at least 13 years old to use Doors Moderator Bot. By using the bot, you represent and warrant that you meet this age requirement.</p>
+            <p>You must be at least 13 years old to use Clarendon. By using the bot, you represent and warrant that you meet this age requirement.</p>
           <h3>2. License</h3>
             <p>We grant you a limited, non-exclusive, non-transferable, and revocable license to use the bot in accordance with these Terms.</p>
           <h3>3. Prohibited Conduct</h3>
@@ -66,7 +66,7 @@ const Home = () => {
         <h2>Changes to These Terms</h2>
           <p>We may update these Terms from time to time. We will notify you of any changes by posting the new Terms within the support server. You are advised to review these Terms periodically for any changes.</p>
         <h2>Last updated</h2>
-          <p>This has been last updated on 19/01/2025.</p>
+          <p>This has been last updated on 3th of June 2025</p>
       </div>
   
       </main>
